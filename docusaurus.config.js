@@ -15,7 +15,7 @@ const config = {
   tagline: 'The tagline of my site',
   url: 'https://spartan4cs.github.io',
   baseUrl: '/documentation_demo/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'spartan4cs', // Usually your GitHub org/user name.
