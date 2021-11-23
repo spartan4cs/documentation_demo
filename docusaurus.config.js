@@ -19,7 +19,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'spartan4cs', // Usually your GitHub org/user name.
-  projectName: 'docusaurusdocumentation_demo', // Usually your repo name.
+  projectName: 'documentation_demo', // Usually your repo name.
 
   presets: [
     [
