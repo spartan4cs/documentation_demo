@@ -13,13 +13,13 @@
 const config = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://spartan4cs.github.io',
+  baseUrl: '/documentation_demo/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'spartan4cs', // Usually your GitHub org/user name.
+  projectName: 'docusaurusdocumentation_demo', // Usually your repo name.
 
   presets: [
     [
